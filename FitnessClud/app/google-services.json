@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975750736661",
+    "project_id": "fitnessclub-329d9",
+    "storage_bucket": "fitnessclub-329d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975750736661:android:0a3a63ecc733b5ea3e171c",
+        "android_client_info": {
+          "package_name": "com.example.fitnessclud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975750736661-e0qp376i4vrpkgu66g2c2tnb4lj6o4dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkhcen2PJoZ-IzVQ_FY7wcGOcWF4FWJNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975750736661-e0qp376i4vrpkgu66g2c2tnb4lj6o4dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
